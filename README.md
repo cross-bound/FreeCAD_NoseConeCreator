@@ -1,0 +1,1 @@
+The NoseConeCreator FreeCAD allows for creating nose cones for model rockets, which then can be exported for 3d printing. Use the spreadsheet inside the FreeCAD file to edit dimensions for the nose cone.
